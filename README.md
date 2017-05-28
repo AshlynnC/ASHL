@@ -49,8 +49,7 @@ System.out.println("HelloWorld");
 ---
 # 插入链接[百度](https://www.baidu.com/index.php?tn=monline_5_dg)
 # 插入图片    
-![图片][pic]
-[pic]:http://n.sinaimg.cn/mil/transform/20170526/HzNi-fyfquxv3248663.jpg "这是图片"（中间必须空一行：图片与文字间有一定间距）  ![图片](http://n.sinaimg.cn/mil/transform/20170526/HzNi-fyfquxv3248663.jpg)  （或者可以这样写：图片与文字间距较小）  
+![图片](http://n.sinaimg.cn/mil/transform/20170526/HzNi-fyfquxv3248663.jpg)  （或者可以这样写：图片与文字间距较小）  
 # 标题
 ## 标题
 ### 标题
