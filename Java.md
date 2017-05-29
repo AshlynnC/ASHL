@@ -82,6 +82,8 @@ public static class triangle{
 	}
 }
 ```
+#思考题1
+![](http://a2.qpic.cn/psb?/V14Jweno0VJwc8/Xf72l.eZ*ng46D6HojMEoAyTr5N7RoGwGNwzqAPyPlo!/b/dGwBAAAAAAAA&bo=BQPKAQAAAAADB.8!&rf=viewer_4)  
 #思考题2
 ```java
 import java.util.Scanner;
