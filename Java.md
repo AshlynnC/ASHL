@@ -1,4 +1,4 @@
-#第一题  
+# 第一题
 ```java
 /* 
   需求：实例公司年销售额求和某公司按照季度和月份统计的数据如下：单位（万元） 
@@ -29,7 +29,7 @@ public class sum{
 	}
 }
 ```
-#第二题
+# 第二题
 ```java
 /* 
   需求：实例打印杨辉三角形（行数可以键盘输入） 
@@ -82,9 +82,9 @@ public static class triangle{
 	}
 }
 ```
-#思考题1
+# 思考题1
 ![](http://a2.qpic.cn/psb?/V14Jweno0VJwc8/Xf72l.eZ*ng46D6HojMEoAyTr5N7RoGwGNwzqAPyPlo!/b/dGwBAAAAAAAA&bo=BQPKAQAAAAADB.8!&rf=viewer_4)  
-#思考题2
+# 思考题2  
 ```java
 import java.util.Scanner;
 public class encryption{
